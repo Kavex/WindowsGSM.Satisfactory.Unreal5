@@ -1,4 +1,4 @@
-# WindowsGSM.Satisfactory.Unreal
+# WindowsGSM.Satisfactory.Unreal5
 WindowsGSM plugin that provides Satisfactory Dedicated server support for the latest release. 
 This was forked from https://github.com/werewolf2150/WindowsGSM.Satisfactory and recoded to work for Unreal 5 for the 1.0 release of Satisfactory
 
