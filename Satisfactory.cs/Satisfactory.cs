@@ -17,8 +17,8 @@ namespace WindowsGSM.Plugins
         public Plugin Plugin = new Plugin
         {
             name = "WindowsGSM.Satisfactory.Unreal5", // WindowsGSM.XXXX
-            author = "werewolf2150",
-            description = "WindowsGSM plugin for supporting Satisfactory Dedicated Server Early Access",
+            author = "Kavex and werewolf2150",
+            description = "WindowsGSM plugin for supporting Satisfactory Dedicated Server",
             version = "1.0",
             url = "https://github.com/Kavex/WindowsGSM.Satisfactory.Unreal5", // Github repository link (Best practice)
             color = "#34c9eb" // Color Hex
