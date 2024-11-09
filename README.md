@@ -15,8 +15,8 @@ https://store.steampowered.com/app/1690800/Satisfactory_Survival/
 
 # Installation
 
-1. Download the latest release
-2. Move **WindowsGSM.Satisfactory.cs** folder to plugins folder
+1. Download the latest release: [WindowsGSM.Satisfactory.Unreal5](https://github.com/Kavex/WindowsGSM.Satisfactory.Unreal5/archive/refs/heads/main.zip)
+2. Move **Satisfactory.cs** folder to plugins folder
 3. Click **[RELOAD PLUGINS]** button or restart WindowsGSM
 
 # Settings
